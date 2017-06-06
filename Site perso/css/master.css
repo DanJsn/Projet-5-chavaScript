@@ -1,0 +1,27 @@
+body{
+  background-image: url("../img/stage.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 15px;
+}
+
+.header  {
+  background: #2a2a2a;
+  color: white;
+  width: 100%;
+}
+
+.jobz_logo{
+  width: 100px;
+}
+
+.header_menu{
+  display: inline-block;
+  float: right;
+}
+
+
+.header_social{
+  display: inline-block;
+  float: left;
+}

@@ -20,7 +20,7 @@
 					class="pure-form pure-form-aligned pure-g"
 					action="./receiver.php"
 					method="post"
-					<script>alert('hacked')</script>
+				 <script>alert('hacked')</script>
 					>
 
 					<div class="pure-control-group">

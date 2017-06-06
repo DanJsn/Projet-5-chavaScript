@@ -1,0 +1,12 @@
+html: {
+Background: url(../images/Background.jpg);
+};
+
+
+.profil  {
+  height: 400px;
+  width: 400px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  color: white;
+}
