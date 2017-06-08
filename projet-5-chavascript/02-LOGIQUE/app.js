@@ -18,7 +18,7 @@ if (langue === "francais") {
   console.log("hello world")
 }
 
-//Exercice : Affichage des scores
+//Exercice : Affichage des scores - à corriger
 
 var score = 100;
 var resulat = score;
@@ -33,8 +33,7 @@ if (score <= 50) {
   console.log("Rang C")
 }
 
-//Mettre au pluriel
-
+//Mettre au pluriel - à corriger
 
 var singulier = "banane";
 var nombre = 4;
